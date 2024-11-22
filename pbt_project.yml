@@ -1,0 +1,57 @@
+name: brendan.hagenes
+description: grid-enabled
+version: 8.1.1.347
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: brendanhagenes
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-11-22 20:15:24'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-11-22 20:15:24'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-11-22T20:15:24.740408Z'
+  name: plibMaven
+  version: 8.6.0-SNAPSHOT
+  id: '831297554'
+  createdAt: '2024-11-22T20:15:24.740408Z'
+  type: plibMaven
+projectDependencies:
+  '299':
+    projectUID: 299
+    projectName: kris.kunde
+    repositoryPath: gitUri=http://gitserver:3000/dev_DVc07QYG_team_403/dev_DVc07QYG_project_299.git&subPath=
+    version: kris.kunde/8.3.892
+    isDefault: false
+    author: null
+    createdAt: '2024-11-22 20:15:22'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
